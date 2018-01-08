@@ -4,7 +4,7 @@ Open Deep Learning courses by Andrew Ng
 https://www.deeplearning.ai 
 
 ## video 1: What is a deeplearning ?
-# https://www.coursera.org/learn/neural-networks-deep-learning/lecture/eAE2G/what-is-a-neural-network
+### https://www.coursera.org/learn/neural-networks-deep-learning/lecture/eAE2G/what-is-a-neural-network
 
 * The term, Deep Learning, refers to training Neural Networks, sometimes very large Neural Networks. So what exactly is a Neural Network? In this video, let's try to give you some of the basic intuitions. 
 * Let's start to the Housing Price Prediction example. Let's say you have a data sets with six houses, so you know the size of the houses in square feet or square meters and you know the price of the house and you want to fit a function to predict the price of the houses, the function of the size. So if you are familiar with linear regression you might say, well let's put a straight line to these data so and we get a straight line like that. But to be Pathans you might say well we know that prices can never be negative, right. So instead of the straight line fit which eventually will become negative, let's bend the curve here. So it just ends up zero here. So this thick blue line ends up being your function for predicting the price of the house as a function of this size. Whereas zero here and then there's a straight line fit to the right. 
