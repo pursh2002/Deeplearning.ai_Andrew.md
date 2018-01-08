@@ -1,5 +1,5 @@
 # Deeplearning.ai_Andrew.md
 
-Deep Learning courses, now open on Coursera
+Open Deep Learning courses by Andrew Ng
 
 ## https://www.deeplearning.ai 
