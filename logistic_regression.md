@@ -1,4 +1,5 @@
- # Basic Neural Net work: Binary Classification https://en.wikipedia.org/wiki/Binary_classification
+ # Basic Neural Net work: Binary Classification 
+ [https://en.wikipedia.org/wiki/Binary_classification
  
  ## Logistic Regression
  
