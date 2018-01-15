@@ -44,3 +44,13 @@ Specificity (also called the true negative rate) measures the proportion of nega
 # Logestic regression
 
 given x want y^ = P(y =1|x) 
+
+x = nx dimension vector
+
+parameters : w = nx,b= the number
+
+how do we generate output y^=   sigmid(wTx + b)
+if z larger sig = 1
+if z small sig = 0
+sigmoid=1/1+e
+Y^ = 0<y<1
